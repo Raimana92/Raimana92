@@ -8,4 +8,4 @@ I love Programming :computer:, the Cybersecurity:closed_lock_with_key:, Networki
 
 All this account is about saving most of the projects from school. Some are just tests.
 
-<a href="www.google.com"> img="http://creativejunkie.fr/wp-content/uploads/2015/09/g-by-google.png" </a>
+<a href="https://www.google.com"> Google </a>
